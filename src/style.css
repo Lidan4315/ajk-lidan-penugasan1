@@ -9,8 +9,12 @@
   background-position: center;
 }
 
+h3 {
+  color: black;
+}
+
 .login-heading {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .btn-login {
