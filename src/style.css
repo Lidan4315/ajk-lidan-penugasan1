@@ -1,15 +1,21 @@
 .login {
   min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3) !important;
 }
 
 .bg-image {
-  background-image: url("https://source.unsplash.com/WEQbe2jBg40/600x1200");
+  background-image: url("bg-login.jpg");
   background-size: cover;
   background-position: center;
 }
 
+h3 {
+  color: black;
+}
+
 .login-heading {
-  font-weight: 300;
+  font-weight: 500;
+  padding-bottom: 3rem;
 }
 
 .btn-login {
